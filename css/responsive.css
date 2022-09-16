@@ -160,8 +160,12 @@
     padding: 0;
   }
   /* Hebergements */
+  .hebergements {
+    gap: 0;
+  }
   .marseille {
     border-radius: 0;
+    background: white;
   }
   .populaire {
     border-radius: 0;
