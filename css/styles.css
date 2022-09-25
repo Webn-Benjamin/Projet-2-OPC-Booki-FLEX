@@ -29,7 +29,7 @@ nav ul {
   margin: 0;
 }
 nav ul li {
-  list-style-type: none !important;
+  list-style-type: none;
   width: 100%;
 }
 nav ul a {
@@ -38,7 +38,7 @@ nav ul a {
   font-size: 1.2rem;
   border-top: 2px solid transparent;
   border-bottom: 2px solid transparent;
-  height: 64px;
+  height: 110px;
   display: flex;
   align-items: center;
   padding: 0 32px;
@@ -377,7 +377,7 @@ header .infos {
   overflow: hidden;
   display: flex;
   flex-direction: column;
-  height: 350px;
+  height: 370px;
   width: 100%;
 }
 
@@ -397,7 +397,7 @@ header .infos {
   overflow: hidden;
   display: flex;
   flex-direction: column;
-  height: 267px;
+  height: 248px;
   width: 100%;
 }
 /* Footer */
